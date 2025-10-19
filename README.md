@@ -1,5 +1,1 @@
-# prifs-game
-
-test test 123
-
-sveiki vaikuciai
+# 1 demo bossfight in a would be boss rush game
